@@ -1,0 +1,6 @@
+# Core runtime dependency (includes HTTP client stack used by PTB polling/requests).
+python-telegram-bot==22.5
+
+# Note:
+# .env loading is implemented in business_bot.py without python-dotenv,
+# so no extra dotenv package is required by current code.

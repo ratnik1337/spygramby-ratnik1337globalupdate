@@ -1,0 +1,3 @@
+# Development/test environment for this repository.
+# Currently there are no extra third-party dev-only tools required.
+-r requirements.txt
